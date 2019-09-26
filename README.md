@@ -32,5 +32,5 @@ To see result and presentation:
 
 [Presentation Powerpoint](https://github.com/bainong007/funded_projects_classifier/blob/master/presentation/predict_funded_projects.pptx)
 
-[Dashboard](https://github.com/bainong007/funded_projects_classifier/blob/master/tableau_dashboard/dashboard.png)
+[!Dashboard](https://github.com/bainong007/funded_projects_classifier/blob/master/tableau_dashboard/dashboard.png)
 
